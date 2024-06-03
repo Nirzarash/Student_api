@@ -1,0 +1,6 @@
+INFO: 2024/06/03 20:58:42 main.go:43: Server starting on port 8080
+INFO: 2024/06/03 20:59:47 main.go:43: Server starting on port 8080
+INFO: 2024/06/03 21:00:41 main.go:43: Server starting on port 8080
+INFO: 2024/06/03 21:03:11 main.go:79: Fetched all students
+INFO: 2024/06/03 21:04:51 main.go:92: Student not found with enrollment number: some-unique-uuid
+INFO: 2024/06/03 21:15:56 main.go:92: Student not found with enrollment number: some-unique-uuid
